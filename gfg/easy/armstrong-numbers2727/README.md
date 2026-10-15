@@ -35,7 +35,7 @@ Explanation: 100 is not an Armstrong number since 13 + 03 + 03 = 1.
 **Language:** Python  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-15T07:37:24.190Z  
+**Submitted:** 2026-10-15T07:37:41.957Z  
 
 ```py
 class Solution:
