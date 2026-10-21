@@ -52,9 +52,9 @@ Explanation: F(4) = F(3) + F(2) = 2 + 1 = 3.
 ## Solution
 
 **Language:** Python  
-**Runtime:** 751 ms (beats 5.08%)  
-**Memory:** 12 MB (beats 98.75%)  
-**Submitted:** 2026-10-21T10:28:22.446Z  
+**Runtime:** 18 ms  
+**Memory:** 12.4 MB  
+**Submitted:** 2026-10-21T10:28:54.404Z  
 
 ```py
 class Solution(object):
